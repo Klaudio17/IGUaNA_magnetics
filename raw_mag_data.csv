@@ -1,4 +1,4 @@
-X,Y,uncorrected mag data (nT),Base station field data (nT),corrected mag data (nT)
+X,Y,raw mag data (nT),local field data (nT),corrected mag data (nT)
 0,0,50650.5,51450.5,
 0,0.5,50901.83,51451.8,
 0,1,51008.99,51451.4,
